@@ -55,9 +55,7 @@
 <li>There are various libraries and tools that you can use to develop NLP applications using generative AI. Some tools are PyTorch, TensorFlow, Hugging Face, LangChain, and Pydantic.</li><li>PyTorch is an open source deep learning framework. It is a Python-based library well-known for its ease of use, flexibility, and dynamic computation graphs.</li><li>TensorFlow is an open-source framework for machine learning and deep learning. It provides tools and libraries to facilitate the development and deployment of machine learning models.</li><li>The tight integration of TensorFlow with Keras provides a user-friendly high-level neural networks API, facilitating rapid prototyping and building and training deep learning models.</li><li>Hugging Face is a platform that offers an open-source library with pretrained models and tools to streamline the process of training and fine-tuning generative AI models. It offers libraries such as Transformers, Datasets, and Tokenizers.</li><li>LangChain is an open-source framework that helps streamline AI application development using LLMs. It provides tools for designing effective prompts.</li><li>Pydantic is a Python library that helps you streamline data handling. It ensures the accuracy of data types and formats before an application processes them.</li></ul>
  
 
-<footer>
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/1-MVUWz-1NEQypgkcpfHzA/ibmsn-footer.png" alt="">
-</footer>
+
 </div>
 </body>
 </html>

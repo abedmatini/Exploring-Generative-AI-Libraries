@@ -24,9 +24,7 @@
 <li>Extensive training with high-quality data,</li><li>Avoiding manipulation,</li><li>Ongoing evaluation and improvement of the models,</li><li>Fine-tuning on domain-specific data,</li><li>Being vigilant,</li><li>Ensuring human oversight, and</li><li>Providing additional context in the prompt.</li></ul>
 </li></ul>
  
-<footer>
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/1-MVUWz-1NEQypgkcpfHzA/ibmsn-footer.png" alt="">
-</footer>
+
 </div>
 </body>
 </html>
